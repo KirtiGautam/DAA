@@ -1,4 +1,5 @@
-# DAA
+# Design and Analysis of Algorithms
+
 This repository contains the programs which I implemented during my learning of design and analysis of algorithm
 
 ## Running steps 
